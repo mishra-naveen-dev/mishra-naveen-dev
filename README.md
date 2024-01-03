@@ -13,9 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
  
- ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&theme=radical)
-[![Naveen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mishra-naveen-dev/github-readme-stats#gh-dark-mode-only)
-[![Naveen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mishra-naveen-dev/github-readme-stats#gh-light-mode-only)
+[![Naveen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/mishra-naveen-dev/github-readme-stats#gh-dark-mode-only)
+[![Naveen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/mishra-naveen-dev/github-readme-stats#gh-light-mode-only)
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mishra-naveen-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
