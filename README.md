@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mishra-naveen-dev)](https://git.io/streak-stats)
+
 
 - 👋 Hi, I’m Naveen Mishra
 - 👀 I’m interested in Web Development ...
@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mishra-naveen-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-naveen-dev&layout=pie)](https://github.com/mishra-naveen-dev/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mishra-naveen-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
