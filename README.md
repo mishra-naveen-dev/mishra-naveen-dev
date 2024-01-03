@@ -12,8 +12,8 @@ nvineng14/nvineng14 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-                            ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&hide=contribs,prs)
+ ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&hide=contribs,prs)
 
-                      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mishra-naveen-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mishra-naveen-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-                      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
