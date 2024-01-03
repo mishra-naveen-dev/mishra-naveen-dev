@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mishra-naveen-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-naveen-dev&layout=pie)](https://github.com/mishra-naveen-dev/github-readme-stats)
