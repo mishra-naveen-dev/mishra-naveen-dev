@@ -1,11 +1,11 @@
 
 
-- 👋 Hi, I’m Naveen Mishra
+- ##👋 Hi, I’m Naveen Mishra
 - 👀 I’m interested in Web Development ...
 - 🌱 I’m currently learning JavaScript ...
 - 💞️ I’m looking to collaborate on Projects
 - 😊 Pronouns: He/Him
-- 📫 naveenmishra1404@gmail.com
+- 📫 naveenmishra1404@gmail.com , nvin.s.mishra18@gmail.com
 - 
   Connet With Me:🤝
 -  Lindkedin:- https://bit.ly/naveen_mishra_linkedin
