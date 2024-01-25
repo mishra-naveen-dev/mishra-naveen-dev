@@ -1,4 +1,4 @@
-<img src="www.linkedin.com/user?username=naveenmishra14" />
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/user?username=naveenmishra14" />
 
 - ##👋 Hi, I’m Naveen Mishra
 - 👀 I’m interested in Web Development ...
