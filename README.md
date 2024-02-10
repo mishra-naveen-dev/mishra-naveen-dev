@@ -1,14 +1,22 @@
 
 [![MasterHead](https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)](https://mishra-naveen-dev.io)
 
-<h1 align="center">Hi 👋, I'm Naveen Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Naveen.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=mishra-naveen-dev&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishra-naveen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mishra-naveen-dev" /> </p>
+<h3 align='center'>
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishra-naveen-dev" alt="mishra-naveen-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p align="left center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishra-naveen-dev" alt="mishra-naveen-dev" /></a> </p>
+
+<p align="left center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **ChatApplication React Based**
 
@@ -24,8 +32,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left center">Connect with me:</h3>
+<p align="left center">
 <a href="https://dev.to/@nvineng14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nvineng14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naveenmishra14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveenmishra14" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20302590/naveen-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20302590/naveen-mishra" height="30" width="40" /></a>
@@ -41,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&locale=en" alt="mishra-naveen-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-naveen-dev&" alt="mishra-naveen-dev" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-naveen-dev&" alt="mishra-naveen-dev" /></p>
