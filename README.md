@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Naveen.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-[![MasterHead](https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif)](https://mishra-naveen-dev.io)
-
-
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="https://mishra-naveen-dev.io" />
+</div>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=mishra-naveen-dev&style=flat-square&color=blue" alt="Profile Views" />
 </div>
