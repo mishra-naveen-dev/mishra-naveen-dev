@@ -74,17 +74,9 @@
 <summary>Don't Click Here</summary>
 
 
-<img src="https://github.com/mishra-naveen-dev/mishra-naveen-dev/blob/output/github-contribution-grid-snake.svg">
-
-
- 
-
-
-
 <p align='center'>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:nvin.s.mishra18@gmail.com'>nvin.s.mishra18@gmail.com</a>
 </p>
  
 
- 
  </details>
