@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [https://mishra-naveen-dev.github.io/MyPortfolio/](https://mishra-naveen-dev.github.io/MyPortfolio/)
 
 - 📫 How to reach me **naveenmishra1404@gmail.com,nvin.s.mishra18@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/15G36FS1HcX_E1PY1BO-d9ToHQazwue7l/view?usp=sharing](https://drive.google.com/file/d/15G36FS1HcX_E1PY1BO-d9ToHQazwue7l/view?usp=sharing)
+
 - ⚡ Fun fact **I think I am funny**
 
 <!--### Blogs posts-->
@@ -73,21 +73,17 @@
 <details>
 <summary>Don't Click Here</summary>
 
-<img src="https://github.com/mishra-naveen-dev/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/mishra-naveen-dev/mishra-naveen-dev/blob/output/github-contribution-grid-snake.svg">
 
 
  
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
+
 
 <p align='center'>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:nvin.s.mishra18@gmail.com'>nvin.s.mishra18@gmail.com</a>
 </p>
  
- <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=PulkitMalhotra161001">
- </p>
+
  
  </details>
