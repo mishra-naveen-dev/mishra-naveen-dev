@@ -66,5 +66,28 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishra-naveen-dev&show_icons=true&locale=en&layout=compact" alt="mishra-naveen-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishra-naveen-dev&show_icons=true&locale=en" alt="mishra-naveen-dev" /></p>
+<br>
+<br>
+
+---
+<details>
+<summary>Don't Click Here</summary>
+
+<img src="https://github.com/mishra-naveen-dev/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
 
 
+ 
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:pulkit161001@gmail.com'>pulkit161001@gmail.com</a>
+</p>
+ 
+ <p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=PulkitMalhotra161001">
+ </p>
+ 
+ </details>
