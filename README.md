@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mishra-naveen-dev.github.io/MyPortfolio/](https://mishra-naveen-dev.github.io/MyPortfolio/)
 
-- 📫 How to reach me **naveenmishra1404@gmail.com,nvin.s.mishra18@gmail.com**
+- 📫 How to reach me **naveenmishra1404@gmail.com,mishra.naveen.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
