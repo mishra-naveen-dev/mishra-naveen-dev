@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **React JS,DSA**
 
-- 👨‍💻 All of my projects are available at [https://mishra-naveen-dev.github.io/MyPortfolio/](https://mishra-naveen-dev.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-mern-frontend.onrender.com/](https://portfolio-mern-frontend.onrender.com/)
 
 - 📫 How to reach me **naveenmishra1404@gmail.com,mishra.naveen.dev@gmail.com**
 
