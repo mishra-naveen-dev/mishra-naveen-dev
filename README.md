@@ -20,7 +20,7 @@
 
 <p align="left center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce ReactJsS Project Basic**
+- 🔭 I’m currently working on **Ecommerce ReactJS Project Basic**
 
 - 🌱 I’m currently learning **ReactJS,DSA**
 
