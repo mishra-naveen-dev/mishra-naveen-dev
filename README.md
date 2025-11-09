@@ -3,9 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Naveen.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-<div align='center'>
-  <img src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" alt="https://mishra-naveen-dev.io" />
-</div>
+
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=mishra-naveen-dev&style=flat-square&color=blue" alt="Profile Views" />
 </div>
@@ -22,11 +20,11 @@
 
 - 🔭 I’m currently working on **Ecommerce ReactJS Project Basic**
 
-- 🌱 I’m currently learning **ReactJS,DSA**
+- 🌱 I’m currently learning **ReactJS,SQL DBA,DSA**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mern-frontend.onrender.com/](https://portfolio-mern-frontend.onrender.com/)
+- 👨‍💻 All of my projects are available  at [https://portfolio-mern-frontend.onrender.com/](https://portfolio-mern-frontend.onrender.com/)
 
-- 📫 How to reach me **naveenmishra1404@gmail.com,mishra.naveen.dev@gmail.com**
+- 📫 How to reach me **mishra.naveen.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -36,12 +34,12 @@
 
 ---
 
-<a href="https://leetcode.com/mishra-naveen-dev" target="_blank">
+<!-- <a href="https://leetcode.com/mishra-naveen-dev" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/mishra-naveen-dev?hide=ranking&border=0&radius=21' width='310"'>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/naveenmishra14/profile" target="_blank">
+</a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/naveenmishra14/profile" target="_blank">
  <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=naveenmishra14' width='210"'>
-</a>
+</a> -->
 
 
 <h3 align="center">Connect with me:</h3>
