@@ -23,7 +23,12 @@
 | **Core** | `Data Structures & Algorithms`, `C++`, `Java`, `Git` |
 
 ---
+## 💼 Focus Areas
 
+<p align="center">
+
+💻 Full Stack Development • 📱 Mobile Applications • 🗄️ Data Engineering • 📊 Data Analytics • ☁️ Cloud • ⚡ SQL Performance • ETL
+</p>
 ### 🏗️ Featured Engineering
 <img align="right" width="220" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Apps/App_Development.gif?raw=true" />
 
@@ -43,7 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-naveen-dev&theme=tokyonight&hide_border=true&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakLabel=007AFF" />
 </p>
 
----
+----------------
+
 
 ### 🤝 Let's Connect
 <p align="left">
